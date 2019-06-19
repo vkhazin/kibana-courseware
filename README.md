@@ -5,8 +5,9 @@
 This instructor-led course focuses on using Kibana to analyze data in Elasticsearch.  
 You will learn how to create visualizations and dashboards across a variety of data sets.  
 As well as the basics of ingesting data using various approaches and tool sets.  
-Starting with the fundamentals, you will learn the core concepts of setting up and utilizing Kibana to analyze data stored in ElasticSearch.  
+Starting with the fundamentals, you will learn the core concepts of setting up and utilizing Kibana to load and to analyze data in ElasticSearch.  
 Through lectures, labs, group discussions and Q&A you will get comfortable building charts, time series, and dashboards.  
+You will get familiar with advanced features of Kibana: Canvas, APM, and Machine Learning
 
 ## Audience
 
